@@ -1,0 +1,16 @@
+body {
+  background: none !important;
+}
+@import url("https://jAba65.github.io/Discord%20Theme/jAba.css");
+
+:root {
+  --app-bg: url("https://i.giphy.com/PLJeLzh6gfL2LhUIW0.webp");
+  --blur-bg: 80px;
+  --brightness-bg: 0.35;
+}
+html body {
+  background: var(--app-bg) !important;
+  background-position: center !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+}
